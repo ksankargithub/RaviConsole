@@ -1,0 +1,13 @@
+C:\204\consoleapp\SankarConsoleApp\bin\Debug\netcoreapp3.1\SankarConsoleApp.exe
+C:\204\consoleapp\SankarConsoleApp\bin\Debug\netcoreapp3.1\SankarConsoleApp.deps.json
+C:\204\consoleapp\SankarConsoleApp\bin\Debug\netcoreapp3.1\SankarConsoleApp.runtimeconfig.json
+C:\204\consoleapp\SankarConsoleApp\bin\Debug\netcoreapp3.1\SankarConsoleApp.runtimeconfig.dev.json
+C:\204\consoleapp\SankarConsoleApp\bin\Debug\netcoreapp3.1\SankarConsoleApp.dll
+C:\204\consoleapp\SankarConsoleApp\bin\Debug\netcoreapp3.1\SankarConsoleApp.pdb
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.csprojAssemblyReference.cache
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.AssemblyInfoInputs.cache
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.AssemblyInfo.cs
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.csproj.CoreCompileInputs.cache
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.dll
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.pdb
+C:\204\consoleapp\SankarConsoleApp\obj\Debug\netcoreapp3.1\SankarConsoleApp.genruntimeconfig.cache
